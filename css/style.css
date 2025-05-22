@@ -1,0 +1,353 @@
+.aword-tro {
+    width: 200px;
+    height: 250px;
+    position: relative;
+    bottom: 120px;
+    left: 195px;
+}
+
+.h-aword-tro h1 {
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: #262526;
+    text-align: center;
+    position: relative;
+    bottom: 140px;
+}
+
+.h-aword-tro p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #0e2b6b;
+    text-align: center;
+    position: relative;
+    bottom: 115px;
+}
+
+.aword-tro2 {
+    width: 200px;
+    height: 250px;
+    position: relative;
+    bottom: 130px;
+    left: 195px;
+}
+
+.banner {
+    background: url(../images/Voiture\ propos1.png) center no-repeat;
+    animation: bardock 15s infinite;
+    width: 100%;
+    height: 800px;
+}
+
+body nav ul a {
+    text-decoration: none;
+}
+
+.button-ex {
+    background-color:#f0eeec ;
+    color: #0e2b6b;
+    border: 2px solid #0e2b6b;
+    border-radius: 12px;
+    padding: 10px 25px 10px 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 5px 5px  40px #262526;
+}
+
+.button-tt {
+    background-color:#0e2b6b ;
+    color: #fff;
+    border: 2px solid #FFF;
+    border-radius: 12px;
+    padding: 20px 60px 20px 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 5px 5px  50px #262526;
+    position: relative;
+    bottom: 220px;
+} 
+
+.center-space {
+    width: 100%;
+    height: 550px;
+    background-color: #f0eeec; 
+
+}
+
+.CARAT-VOITUR {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: #262526;
+}
+
+.div-carat {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    position: relative;
+    top: 10px;
+}
+
+.div-button {
+    display: flex;
+    flex-direction: row;
+    gap: 350px;
+    position: relative;
+    justify-content: center;
+    bottom: 280px;
+}
+
+.div-essai {
+    display: flex;
+    flex-direction: row;
+    gap: 215px;
+    justify-content: center;
+}
+
+.div-cat {
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    justify-content: center;
+    position: relative;
+    bottom: 200px;
+}
+
+.div-exp {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 40px;
+}
+
+.div-trophy {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    position: relative;
+    top: 50px;
+}
+
+.essai {
+    width:250px ;
+    height:320px ;
+    background-color: #262526;
+    position: relative;
+    top: 80px;
+    border: 1px #262526;
+    border-radius: 20px;
+}
+
+.essai h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: #f0eeec;
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
+
+.Expé {
+    text-align: center;
+    margin: 40px;
+}
+
+.ex-car {
+    position: relative;
+    bottom: 150px;
+}
+
+.grobuton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.SOU-ESSAI {
+    width: 250px;
+    height: 250px;
+    background-color: #f0eeec;
+    position: relative;
+    top: 50px;
+    border: 1px #f0eeec;
+    border-radius: 0px 0px 20px 20px;
+}
+
+* {
+    margin: 0;
+}
+
+.hd {
+    width: 95%;
+    height: 50px;
+     background-color: #f0eeec; 
+    border: 2px solid #fff;
+    border-radius: 50px;
+    box-shadow: 5px 5px 40px black;
+    margin: 25px;  
+    position: absolute;
+    top : -15px ;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img-logo {
+    padding-top: 14px;
+    padding-left: 10px;
+}
+
+.img-cat {
+    width: 400px;
+    height: 400px;
+} 
+
+.Nav-ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: space-between;
+    align-items: center;
+    padding : 15px;
+}
+
+.Nav-ul a {
+    color: #0e2b6b;
+}
+
+.NOM-VOITUR {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+    color: #f0eeec;
+    display: flex;
+    flex-direction: row;
+    gap:300px ;
+    justify-content: center;
+    position: relative;
+    bottom: 680px;
+}
+
+.NOVOITUR {
+    width: 100%;
+    height: 200px;
+    background-color: #0e2b6b;
+    border: 1px #0e2b6b;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.NOVOITUR strong {
+    font-size: 30px;
+    color: #f0eeec;
+    position: relative;
+    top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+@keyframes bardock {
+    0% {
+        background: url(../images/Voiture\ propos1.png) center no-repeat;
+    }
+    
+    33% {
+        background: url(../images/VoiturePropos.png) center no-repeat;
+    }
+
+    66% {
+        background: url(../images/Voiturepropos3.png) center no-repeat;
+    }
+}
+
+.QSN {
+   text-align: center;
+   display: grid;
+   row-gap: 25px;
+   position: relative;
+   top: 45px;
+}
+
+.QSN p {
+    font-size: 20px;
+}
+
+.QSN h1 {
+    font-size:40px ;
+}
+
+.récomp {
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+}
+
+.SVH {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    position :relative;
+    top: 100px;
+    justify-content: center;
+}
+
+.SVH-div {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    width: 220px;
+    height: 220px;
+    background-color: #fff;
+    border: 1px #f0eeec;
+    border-radius: 20px;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 5px 5px 30px;
+}
+
+.SVH-img {
+    width: 120px;
+    height: 120px;
+    align-self: center;
+}
+
+.TYPVOITUR {
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    font-size: 25px;
+    justify-content: center;
+    position: relative;
+    top: 50px;
+}
+
+.TYPVOITUR a {
+    color: #f0eeec;
+}
+  
+.image {
+    width:620px;
+    height: 350px;
+    border: #f0eeec;
+    border-radius: 20px;
+  }
+
+  .trophy {
+    width:620px;
+    height: 250px;
+    background: #FFF;
+    border: 1px #fff;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px;
+    align-self: center;
+  }
+  
